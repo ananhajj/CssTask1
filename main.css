@@ -1,0 +1,14 @@
+.services{
+    text-align: center;
+}
+.service{
+    display: inline-block;
+    width: 20%;
+    height: auto;
+}
+.service-paragraph{
+    color: #6C757D;
+}
+i{
+    color: orangered;
+}
